@@ -19,3 +19,11 @@ Then logout and login again.
 ## Settings
 
 - You can change the keyboard layout in line 198 of config file.
+
+## Rofi themes
+
+You can change the rofi theme typing the command `<leader>+d` and then selecting `Rofi Theme Selector`.
+
+You can also install new rofi themes, here some links:
+
+- [https://github.com/lr-tech/rofi-themes-collection](https://github.com/lr-tech/rofi-themes-collection)
