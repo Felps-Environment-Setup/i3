@@ -15,3 +15,7 @@
     - `cp ~/.config/i3/config-polybar.sh ~/.config/polybar`
 
 Then logout and login again.
+
+## Settings
+
+- You can change the keyboard layout in line 198 of config file.
